@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Planetas",
-    "slug": "planetas",
+    "slug": "planetasdb",
     "version": "1.0.0",
     "scheme": "planetas",
     "orientation": "portrait",
