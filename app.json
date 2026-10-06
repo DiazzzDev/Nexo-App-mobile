@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Planetas",
+    "slug": "planetas",
+    "version": "1.0.0",
+    "scheme": "planetas",
+    "orientation": "portrait",
+    "icon": "./assets/planet-icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cvcg11.nexoplanetas",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/planet-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FFFFFF",
+          "image": "./assets/planet-icon.png",
+          "imageWidth": 190
+        }
+      ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "257edf4b-f37e-410d-96be-3afe50f0a97a"
+      }
+    }
+  }
+}
