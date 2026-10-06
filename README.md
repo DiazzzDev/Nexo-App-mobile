@@ -66,5 +66,5 @@ src/
 
 ## Enlaces de entrega
 
-- APK: se agregará al finalizar la compilación de EAS.
-- Video demostrativo: pendiente de agregar.
+- APK: https://expo.dev/accounts/diazzzs-team/projects/planetasdb/builds/b8d73ee2-17e9-4863-9e20-6841a3cc2b1b
+- Video demostrativo: https://youtube.com/shorts/DXwPl9Ajzv0?si=1-8d2IDhHWW4_i4V.
